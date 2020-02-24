@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c0c2033b603d2d2469de664d5296b172
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - leftController: {fileID: 1449797757872374, guid: 24a5466f0c3d4fc45a63f559f5899806,
+      type: 3}
+  - leftSword: {fileID: 1114612503058464, guid: a0dad4afa05fef34c8505e1177cd598c,
+      type: 3}
+  - rightController: {fileID: 1449797757872374, guid: 24a5466f0c3d4fc45a63f559f5899806,
+      type: 3}
+  - rightSword: {fileID: 1114612503058464, guid: a0dad4afa05fef34c8505e1177cd598c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
